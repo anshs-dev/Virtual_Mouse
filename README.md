@@ -100,11 +100,6 @@ Use these gestures in front of your webcam:
 
 ---
 
-## 🎥 Demo
-
-(Add GIF or project demo link here)
-
----
 
 ## 🚧 Future Enhancements
 
